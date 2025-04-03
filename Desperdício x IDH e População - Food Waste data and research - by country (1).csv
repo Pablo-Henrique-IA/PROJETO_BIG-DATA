@@ -35,7 +35,6 @@ Central African Republic,"0,387​",5.579.000,147,103,487305,16,74216,28,131196,
 Chad,"0,394​",17.723.000,147,103,1637656,16,249413,28,440901,Very Low Confidence,148,Sub-Saharan Africa
 Chile,"0,860​",19.604.000,113,74,1400946,13,242800,26,484611,Low Confidence,152,Latin America and the Caribbean
 China,"0,788​",1.412.175.000,126,64,91646213,16,22424705,46,65377741,Very Low Confidence,156,Eastern Asia
-"China, Hong Kong SAR","0,956​",,110,71,530985,13,95267,26,190147,Low Confidence,344,Eastern Asia
 Colombia,"0,758​",51.874.000,114,70,3545499,16,787320,28,1391787,Very Low Confidence,170,Latin America and the Caribbean
 Comoros,"0,586​",837.000,144,100,84742,16,13308,28,23526,Very Low Confidence,174,Sub-Saharan Africa
 Congo,"0,593",5.970.000,144,100,535851,16,84152,28,148760,Very Low Confidence,178,Sub-Saharan Africa
@@ -150,7 +149,8 @@ Senegal,"0,517​",17.316.000,144,100,1622980,16,254879,28,450564,Very Low Confi
 Serbia,"0,805​",6.760.000,105,83,726196,16,137199,6,52633,Very Low Confidence,688,Southern Europe
 Seychelles,"0,802",100.000,132,93,9128,13,1252,26,2498,Low Confidence,690,Sub-Saharan Africa
 Sierra Leone,"0,458",8.606.000,147,103,802371,16,122200,28,216020,Very Low Confidence,694,Sub-Saharan Africa
-Singapore,"0,949​",5.637.000,119,80,465355,13,74361,26,148418,Low Confidence,702,South-eastern Asia
+Singapore,"0,949​
+",5.637.000,119,80,465355,13,74361,26,148418,Low Confidence,702,South-eastern Asia
 Slovakia,"0,855​",5.432.000,109,70,381273,13,69911,26,139538,Low Confidence,703,Eastern Europe
 Slovenia,"0,926",2.109.000,61,34,71107,7,13910,20,41741,Medium Confidence,705,Southern Europe
 Solomon Islands,"0,562​",724.000,135,91,60963,16,10476,28,18519,Very Low Confidence,90,Melanesia
