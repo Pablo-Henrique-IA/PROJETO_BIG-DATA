@@ -7,7 +7,7 @@ import pydeck as pdk
 # Carregar os dados
 @st.cache_data
 def load_data():
-    df = pd.read_excel("Desperdício x IDH e População (1).xlsx")
+    df = pd.read_excel("Desperdício x IDH e População (1) (1).xlsx")
     df["IDH"] = df["IDH"].str.replace(",", ".").str.extract(r'([\d\.]+)').astype(float)
     df = df[[
         "Country", "IDH", "Population", 
