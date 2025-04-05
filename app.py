@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pydeck as pdk
 
-# Carregar os dados
+# Carregamento dos dados
 @st.cache_data
 def load_data():
     df = pd.read_excel("Desperdício x IDH e População (1) (1).xlsx")
