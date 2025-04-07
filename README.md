@@ -54,11 +54,3 @@ Embora não tenha sido encontrada correlação significativa com o **IDH**, estu
 - [PyDeck](https://pydeck.gl/)
 - [Streamlit](https://streamlit.io/)
 
----
-
-## 🚀 Como executar
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
